@@ -1,4 +1,4 @@
-# dating
+# dating_app
 
 A new Flutter project.
 
